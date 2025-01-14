@@ -1,7 +1,7 @@
 # Craig Wright - BBC Technical Test 2024
 
 This is my submission for the BBC technical test to create a blackjack simulation.
-My Submission is a fully interactive text based game for up to 4 players.
+My submission is a fully interactive text based game for up to 4 players.
 
 # How to Run the Program
 
