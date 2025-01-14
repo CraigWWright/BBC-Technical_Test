@@ -5,7 +5,7 @@ My Submission is a fully interactive text based game for up to 4 players.
 
 # How to Run the Program
 
-1. Ensure you java is install on your machine by typing in the cmd line.
+1. Ensure java is installed on your machine by typing in the cmd line.
 	`` java -version ``
 	Java can be downloaded here: 	https://www.oracle.com/java/technologies/downloads/?er=221886
 2. Ensure Maven is installed by typing in the cmd line.
