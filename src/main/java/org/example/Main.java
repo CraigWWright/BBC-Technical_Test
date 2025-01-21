@@ -25,7 +25,7 @@ public class Main {
         setUpPlayers();
         displayMessage("You have been given £100 to start. Good luck!");
 
-        // this segment tells the player how much money they have after a round. It also removes players who have ran out of money
+        // this segment tells the player how much money they have after a round. It also removes players who have run out of money
         while (true) {
             Iterator<Player> iterator = playerList.iterator();
             // only runs if a game has already been played
