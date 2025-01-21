@@ -10,7 +10,6 @@ public class Main {
     private int decks = 1;
     private boolean doubleDown = false;
     private boolean surrender = false;
-    private static List<Card> cards;
     private final Deck deck = new Deck(decks);
     private final ArrayList<Player> playerList = new ArrayList<>();
 
